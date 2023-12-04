@@ -1,0 +1,30 @@
+{
+	"Employees": [
+		{
+			"Name": "Jorge",
+			"Surname": "Hdez",
+			"Starting date": "27/06/2000",
+			"Departure date": "27/06/2005",
+			"Gender": "male",
+			"City": "madrid",
+			"Position": "engineer",
+			"Base Salary": "30000.0",
+			"Final Salary": "24900.0",
+			"Seniority": "1826",
+			"Rotation": "Enable"
+		},
+		{
+			"Name": "Irene",
+			"Surname": "Hdez",
+			"Starting date": "08/08/1995",
+			"Departure date": "04/12/2023",
+			"Gender": "female",
+			"City": "tenerife",
+			"Position": "art worker",
+			"Base Salary": "20000.0",
+			"Final Salary": "16600.0",
+			"Seniority": "10345",
+			"Rotation": "Disable"
+		}
+	]
+}
